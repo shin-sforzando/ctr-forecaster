@@ -1,1 +1,1 @@
-# ctr-forecaster
+# CTR Forecaster
